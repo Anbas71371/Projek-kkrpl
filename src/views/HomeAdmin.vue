@@ -23,40 +23,60 @@
             <td style="text-align: center;">Tono Hasranuddin</td>
             <td style="text-align: center;">2024</td>
             <td style="text-align: center; display: flex;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
-              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
+              <a href="/HomeAdmin" style="text-decoration: none; margin-right: 10px;">
+                    <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+                </a>
+               <a href="/HomeAdmin" style="text-decoration: none;">
+                    <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;"> Tolak Verifikasi</div>
+                </a>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
             <td style="text-align: center;">2023</td>
             <td style="text-align: center; display: flex;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
-              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
+              <a href="/HomeAdmin" style="text-decoration: none; margin-right: 10px;">
+                    <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+                </a>
+               <a href="/HomeAdmin" style="text-decoration: none;">
+                  <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;"> Tolak Verifikasi</div>
+                </a>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
             <td style="text-align: center;">2022</td>
             <td style="text-align: center; display: flex;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
-              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
+              <a href="/HomeAdmin" style="text-decoration: none; margin-right: 10px;">
+                    <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+                </a>
+               <a href="/HomeAdmin" style="text-decoration: none;">
+                  <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;"> Tolak Verifikasi</div>
+                </a>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
             <td style="text-align: center;">2021</td>
             <td style="text-align: center; display: flex;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
-              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
+              <a href="/HomeAdmin" style="text-decoration: none; margin-right: 10px;">
+                    <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+                </a>
+               <a href="/HomeAdmin" style="text-decoration: none;">
+                    <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;"> Tolak Verifikasi</div>
+                </a>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
             <td style="text-align: center;">2020</td>
             <td style="text-align: center; display: flex;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
-              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
+               <a href="/HomeAdmin" style="text-decoration: none; margin-right: 10px;">
+                    <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+                </a>
+               <a href="/HomeAdmin" style="text-decoration: none;">
+                    <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;"> Tolak Verifikasi</div>
+                </a>
             </td>
           </tr>
           <!-- Add more rows as needed -->

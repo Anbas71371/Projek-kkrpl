@@ -1,4 +1,7 @@
 <template lang="">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&display=swap" rel="stylesheet">
   <div  style=" background: linear-gradient(to bottom, rgba(22, 65, 178, 1), rgba(22, 56, 178, 0));" >
     
   <div class="beranda" >
@@ -45,14 +48,14 @@
                   </div>
                   <div class="pengajuan">
                     <a href="/HomeAdmin" style="color:white;text-decoration:none;" >
-                        <p  style="font-size: 17px;font-family: 'Raleway', sans-serif;font-weight:bold;margin-top:10px">Daftar  Anggota Yang Ingin Dikonfirmasi : 10</p>
+                        <p  style="font-size: 15px;font-family: 'Raleway', sans-serif;font-weight:bold;margin-top:10px">Daftar  Anggota Yang Ingin Dikonfirmasi : 10</p>
                     </a>
              
              
                    </div>
                   <div class="pengajuan1">
                     <a href="/DaftarPeminjaman" style="color:white;text-decoration:none;" >
-                       <p  style="font-size: 17px;font-family: 'Raleway', sans-serif;font-weight:bold;margin-top:10px">Daftar  Anggota Yang Ingin Meminjam : 10 </p>
+                       <p  style="font-size: 15px;font-family: 'Raleway', sans-serif;font-weight:bold;margin-top:10px">Daftar  Anggota Yang Ingin Meminjam : 10 </p>
               
                     </a>
                   </div>
@@ -60,7 +63,7 @@
              </div>
        </div>
        <div class="riwayat">
- <h5 style="font-weight: bold;font-family: 'Raleway'">Data Anggota dan Pinjaman </h5>
+ <h5 style="font-weight: bold;">Data Anggota dan Pinjaman </h5>
 
  <div class="search">
     <q-input outlined v-model="text" label="Mau Cari Apa ?" :border-radius="borderRadius">
@@ -158,7 +161,7 @@
 
 .pengajuan {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 70px;
   padding-top: 1px;
   margin-left: 40px;
   width: 50vh;

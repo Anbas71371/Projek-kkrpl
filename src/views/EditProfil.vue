@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&family=Roboto+Flex:opsz,wght@8..144,700&display=swap" rel="stylesheet">
   <div class="app">
-      <a href="/DaftarPeminjam" style="text-decoration: none; color: #192531;">
+      <a href="/DaftarPeminjaman" style="text-decoration: none; color: #192531;">
           <div style="font-size: 17px; font-weight: bold; margin: 30px;display: flex;margin-top: 3px;">
             <i class="fa-solid fa-chevron-left" style="color: #000000;padding-top: 4px;padding-right: 5px;"></i>
             <p >  Kembali </p>
