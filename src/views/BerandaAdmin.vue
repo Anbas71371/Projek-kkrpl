@@ -70,7 +70,7 @@
     </q-input>
   </div>
 
- <table class="content-table">
+ <table class="content-table" >
    <thead>
      <tr style="background-color: #192531;color: white">
        <th>Profil</th>
@@ -216,22 +216,29 @@
 }
 
 .content-table {
-
-  border-collapse: collapse;
   margin: 25px 0;
   font-size: 0.7em;
   min-width: 400px;
 }
 
+
+
 .content-table th,
 .content-table td {
-  padding: 15px 135px;
+  padding: 20px 135px;
   /* mengatur panjang kepala table*/
 }
 
 .content-table tbody tr {
   border-bottom: 1px solid #ddd;
 
+}
+
+
+.content-table th {
+  padding: 20px 20px; /* Sesuaikan padding untuk sel header */
+  font-weight: bold; /* Atur tebal font */
+  text-align: left; /* Atur alignment teks */
 }
 
 </style>

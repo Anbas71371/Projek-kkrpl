@@ -7,6 +7,11 @@ import DaftarPeminjaman from '../views/DaftarPeminjam.vue'
 
 const routes= [
   {
+    path: '/' ,
+    name: 'Home',
+    component: () => import ('C:/laragon/www/projek_akhir/src/views/LoGin.vue')
+  },
+  {
     path: '/Login' ,
     name: 'Login',
     component: () => import ('C:/laragon/www/projek_akhir/src/views/LoGin.vue')

@@ -15,6 +15,8 @@
             <tr style="background-color: #192531; color: white; border-radius: 10px 10px 0 0;">
               <th style="width: 150px;">Nama</th>
               <th style="width: 150px;">Nomor Anggota</th>
+              <th style="width: 150px;">Total Peminjaman</th>
+              <th style="width: 150px;">Jatuh Tempo </th>
               <th style="width: 150px;"></th>
             </tr>
           </thead>
@@ -22,6 +24,8 @@
             <tr style="background-color: #98CEFF;font-size: 12px;font-weight: 500;">
               <td style="text-align: center;">Tono Hasranuddin</td>
               <td style="text-align: center;">2023</td>
+              <td style="text-align: center;">Rp.200.000</td>
+              <td style="text-align: center;">12 Bulan</td>
               <td style="text-align: center;">
                 <a href="/EditProfil" style="text-decoration: none;">
                     <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Lihat profil</div>
@@ -31,14 +35,19 @@
             <tr style="background-color: #98CEFF;font-size: 12px;font-weight: 500;">
               <td style="text-align: center;">Aletta Casuna Lestari</td>
               <td style="text-align: center;">2022</td>
+              <td style="text-align: center;">Rp.300.000</td>
+              <td style="text-align: center;">10 Bulan</td>
               <td style="text-align: center;">
                 <a href="/EditProfil" style="text-decoration: none;">
                     <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Lihat profil</div>
-                </a>              </td>
+                </a>             
+              </td>
             </tr>
             <tr style="background-color: #98CEFF;font-size: 12px;font-weight: 500;">
               <td style="text-align: center;">Aletta Casuna Lestari</td>
               <td style="text-align: center;">2021</td>
+              <td style="text-align: center;">Rp.200.000</td>
+              <td style="text-align: center;">12 Bulan</td>
               <td style="text-align: center;">
                 <a href="/EditProfil" style="text-decoration: none;">
                     <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Lihat profil</div>
@@ -47,6 +56,8 @@
             <tr style="background-color: #98CEFF;font-size: 12px;font-weight: 500;">
               <td style="text-align: center;">Aletta Casuna Lestari</td>
               <td style="text-align: center;">2020</td>
+              <td style="text-align: center;">Rp.500.000</td>
+              <td style="text-align: center;">20 Bulan</td>
               <td style="text-align: center;">
                 <a href="/EditProfil" style="text-decoration: none;">
                     <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Lihat profil</div>
@@ -56,6 +67,8 @@
             <tr style="background-color: #98CEFF;font-size: 12px;font-weight: 500;">
               <td style="text-align: center;">Aletta Casuna Lestari</td>
               <td style="text-align: center;">2019</td>
+              <td style="text-align: center;">Rp.1.000.000</td>
+              <td style="text-align: center;">11 Bulan</td>
               <td style="text-align: center;">
                 <a href="/EditProfil" style="text-decoration: none;">
                     <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Lihat profil</div>
@@ -94,7 +107,7 @@
   
   .content-table th,
   .content-table td {
-   padding: 10px 143px;
+   padding: 10px 100px;
   
   }
   .content-table th,
